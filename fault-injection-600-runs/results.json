@@ -1,0 +1,44 @@
+{
+  "none": {
+    "ok": 100,
+    "crash": 0,
+    "visible": 0,
+    "silent_wrong": 0
+  },
+  "exception": {
+    "ok": 0,
+    "crash": 0,
+    "visible": 100,
+    "silent_wrong": 0
+  },
+  "malformed": {
+    "ok": 0,
+    "crash": 0,
+    "visible": 73,
+    "silent_wrong": 27
+  },
+  "empty": {
+    "ok": 0,
+    "crash": 0,
+    "visible": 100,
+    "silent_wrong": 0
+  },
+  "slow": {
+    "ok": 0,
+    "crash": 100,
+    "visible": 0,
+    "silent_wrong": 0
+  },
+  "truncated": {
+    "ok": 0,
+    "crash": 0,
+    "visible": 100,
+    "silent_wrong": 0
+  },
+  "poisoned": {
+    "ok": 0,
+    "crash": 0,
+    "visible": 0,
+    "silent_wrong": 100
+  }
+}
